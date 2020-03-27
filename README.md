@@ -75,18 +75,3 @@ NODE_ENV=production node server.js
 ```
 
 Check in browser on [http://localhost:5000/](http://localhost:5000/)
-
-## App Info
-
-### Author
-
-Michael Paraskakis
-mparas@gmail.com
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
